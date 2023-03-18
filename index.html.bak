@@ -162,12 +162,11 @@
             <span>Connect With Us</span>
         </div>
         <div class="contact-form">
-            <form action="mailto:isyhak98@gmail.com" method="post">
+            <form action="">
                 <input type="text" placeholder="Your Name">
                 <input type="email" name="" id="" placeholder="Your Email">
                 <textarea name="" id="" cols="30" rows="10" placeholder="Write Message Here..."></textarea>
-                <input id="submit-btn" class="contact-button" type="submit" value="Send">
-            </form>
+                <input type="button" value="Send" class="contact-button">
             </form>
         </div>
     </section>
